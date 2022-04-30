@@ -1,6 +1,9 @@
 # VaseBreakerRecord
 This is a recording tool for pvz game——VaseBreaker.
 
+# Install
+Just double the main.exe file.
+
 Demo Video :[VaseBreakerRecord](https://www.bilibili.com/video/BV1RS4y187zJ/)
 
 Plants vs. Zombies Version: English(1.0.0.1051)([Download.](https://share.486662.xyz/file/pvz/))(Password:pvz)
